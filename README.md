@@ -86,7 +86,7 @@ By the end of this program, I will be able to:
 ## 🧑‍💻 Author
 
 **Name:** Lufuno Nyadzani  
-**Program:** AWS re/Start  
+**Program:** Praesignis AWS re/Start  
 **Cohort:** ZAJOH38  
 **Platform:** Vocareum / Canvas / AWS Educate  
 
