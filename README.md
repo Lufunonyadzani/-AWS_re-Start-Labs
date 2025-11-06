@@ -94,7 +94,7 @@ By the end of this program, I will be able to:
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [Lufunonyadzani](https://github.com/Lufunonyadzani)  
+- **GitHub:** [Lufunonyadzani](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main)  
 - **LinkedIn:** *(https://www.linkedin.com/in/lufuno-nyadzani-333ba0316/)*  
 - **Email:** *(Nyadzanil20@gmail.com)*  
 
