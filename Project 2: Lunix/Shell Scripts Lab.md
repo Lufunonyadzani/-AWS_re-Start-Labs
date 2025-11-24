@@ -74,12 +74,3 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
   ```
 
 ---
-
-## Key Learnings
-
-* Aliases simplify repetitive tasks, like backups, in Bash.
-* The `PATH` variable controls where Linux searches for executables.
-* Scripts not in `PATH` require the full path to execute.
-* `tar` can compress directories into `.tar.gz` archives for backup.
-
----
