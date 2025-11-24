@@ -1,9 +1,9 @@
 # ☁️AWS re/Start Journey
-Welcome to my **AWS re/Start Labs Repository**!  I'm Lufuno Nyadzani
+Welcome to my **AWS re/Start Labs Repository**!  I'm Lufuno Nyadzani I’m someone who genuinely enjoys technology, especially anything related to cloud computing. Over time, this interest has grown into a clear career goal: becoming a Senior Solutions Architect. Completing my IT Diploma gave me the foundation to understand how systems work, but exploring cloud platforms is what truly sparked my ambition.
 
-This collection showcases my hands-on labs, exercises, and projects completed as part of the **AWS re/Start Cloud Practitioner Program**.
+What draws me to the cloud is how it enables businesses to operate smarter and faster. The idea that you can design solutions that scale on demand, stay secure, and reduce complexity motivates me to keep learning. I want to be the kind of architect who creates systems that are not only technically strong but also make a real difference in how companies run.
 
-Each lab demonstrates practical cloud computing, Linux, and networking concepts using **Amazon Web Services (AWS)** and related technologies.
+This collection showcases my hands-on labs, exercises, and projects completed as part of the **AWS re/Start Cloud Practitioner Program**.Each lab demonstrates practical cloud computing, Linux, and networking concepts using **Amazon Web Services (AWS)** and related technologies.
 
 ---
 
