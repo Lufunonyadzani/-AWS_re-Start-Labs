@@ -15,41 +15,203 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 ## 🧩 Topics Covered
 
-| 🐧 **Linux Fundamentals** | ☁️ **Cloud Foundations** |
-|---------------------------|---------------------------|
-| • Intro to Linux & CLI<br>• File & Directory Management<br>• Users & Groups<br>• Editing Files & Permissions<br>• Shell Scripting | • Core Cloud Concepts<br>• AWS Global Infrastructure<br>• Shared Responsibility Model<br>• Cloud Deployment Models |
+<div style="display: flex; flex-wrap: wrap; gap: 30px; width: 100%;">
 
-| ☁️ **AWS Cloud Services** | 🐍 **Python Programming** |
-|---------------------------|---------------------------|
-| • EC2<br>• S3<br>• IAM<br>• CloudWatch<br>• VPC | • Variables & Data Types<br>• Functions & Control Flow<br>• File Handling<br>• Modules<br>• boto3 Basics |
+<!-- Linux Fundamentals -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🐧 Linux Fundamentals</h3>
+<ul>
+<li>Introduction to Linux & CLI</li>
+<li>File & Directory Management</li>
+<li>Users & Groups</li>
+<li>Editing Files & Permissions</li>
+<li>Shell Commands & Scripting</li>
+</ul>
+</div>
 
-| 🗄️ **Databases** | 🏗️ **AWS Architecture** |
-|------------------|-------------------------|
-| • SQL Basics<br>• RDBMS vs NoSQL<br>• Queries<br>• DB Design | • High Availability<br>• Fault Tolerance<br>• Scalability<br>• Well-Architected Framework |
+<!-- Cloud Foundations -->
+<div style="flex: 1; min-width: 350px;">
+<h3>☁️ Cloud Foundations</h3>
+<ul>
+<li>Core Cloud Concepts</li>
+<li>AWS Global Infrastructure</li>
+<li>Shared Responsibility Model</li>
+<li>Deployment Models</li>
+</ul>
+</div>
 
-| 🛠️ **Systems Operations** | ⚙️ **Tooling & Automation** |
-|---------------------------|------------------------------|
-| • Deploying Workloads<br>• Configuring Compute & Storage<br>• Troubleshooting | • Git & Version Control<br>• Automation Tools<br>• Intro to CI/CD |
+<!-- AWS Cloud Services -->
+<div style="flex: 1; min-width: 350px;">
+<h3>☁️ AWS Cloud Services</h3>
+<ul>
+<li>EC2: Virtual Servers</li>
+<li>S3: Cloud Storage</li>
+<li>IAM: Identity & Policies</li>
+<li>CloudWatch: Logs & Metrics</li>
+<li>VPC: Networking & Security</li>
+</ul>
+</div>
 
-| 🖥️ **Servers** | 📡 **Scaling & Name Resolution** |
-|----------------|----------------------------------|
-| • Compute Types<br>• Server Config<br>• Volume Handling | • Load Balancing<br>• Auto Scaling<br>• DNS<br>• Route 53 |
+<!-- Python Programming -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🐍 Python Programming</h3>
+<ul>
+<li>Variables & Data Types</li>
+<li>Functions & Control Flow</li>
+<li>File Handling</li>
+<li>Modules & Packages</li>
+<li>boto3 Introduction</li>
+</ul>
+</div>
 
-| 🧩 **Serverless & Containers** | 🗃️ **AWS Database Services** |
-|-------------------------------|-------------------------------|
-| • Lambda<br>• Docker Basics<br>• ECS/ECR | • RDS<br>• DynamoDB<br>• Aurora |
+<!-- Databases -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🗄️ Databases</h3>
+<ul>
+<li>SQL Basics</li>
+<li>Relational vs NoSQL</li>
+<li>Querying & Joins</li>
+<li>Database Design</li>
+</ul>
+</div>
 
-| 🌐 **AWS Networking Services** | 📦 **Storage & Archiving** |
-|-------------------------------|-----------------------------|
-| • VPC Components<br>• Security Groups<br>• NACLs | • S3<br>• EBS<br>• EFS<br>• Backups |
+<!-- AWS Architecture -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🏗️ AWS Architecture</h3>
+<ul>
+<li>High Availability</li>
+<li>Fault Tolerance</li>
+<li>Scalability Principles</li>
+<li>Well-Architected Framework</li>
+</ul>
+</div>
 
-| 🔐 **Monitoring & Security** | 💰 **Managing Resource Consumption** |
-|------------------------------|--------------------------------------|
-| • CloudWatch<br>• CloudTrail<br>• Auditing | • Cost Explorer<br>• Billing<br>• Budgets |
+<!-- Systems Operations -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🛠️ Systems Operations</h3>
+<ul>
+<li>Deploying Workloads</li>
+<li>Compute & Storage Configurations</li>
+<li>Basic Troubleshooting</li>
+</ul>
+</div>
 
-| 🤖 **Automated Deployments** | 🤖 **Machine Learning & Gen AI** |
-|------------------------------|------------------------------------|
-| • IaC Concepts<br>• CloudFormation Basics | • ML Concepts<br>• AWS ML Services<br>• Gen AI Tools |
+<!-- Tooling & Automation -->
+<div style="flex: 1; min-width: 350px;">
+<h3>⚙️ Tooling & Automation</h3>
+<ul>
+<li>Git & Version Control</li>
+<li>Automation Tools</li>
+<li>CI/CD Fundamentals</li>
+</ul>
+</div>
+
+<!-- Servers -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🖥️ Servers</h3>
+<ul>
+<li>Compute Types</li>
+<li>Server Configuration</li>
+<li>Volume Management</li>
+</ul>
+</div>
+
+<!-- Scaling & Name Resolution -->
+<div style="flex: 1; min-width: 350px;">
+<h3>📡 Scaling & Name Resolution</h3>
+<ul>
+<li>Load Balancing</li>
+<li>Auto Scaling</li>
+<li>DNS Concepts</li>
+<li>Route 53</li>
+</ul>
+</div>
+
+<!-- Serverless & Containers -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🧩 Serverless & Containers</h3>
+<ul>
+<li>Lambda</li>
+<li>Docker Basics</li>
+<li>ECS & ECR</li>
+</ul>
+</div>
+
+<!-- AWS Database Services -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🗃️ AWS Database Services</h3>
+<ul>
+<li>RDS</li>
+<li>DynamoDB</li>
+<li>Aurora</li>
+</ul>
+</div>
+
+<!-- AWS Networking Services -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🌐 AWS Networking Services</h3>
+<ul>
+<li>VPC Components</li>
+<li>Security Groups</li>
+<li>Network ACLs</li>
+<li>Routing Tables</li>
+</ul>
+</div>
+
+<!-- Storage & Archiving -->
+<div style="flex: 1; min-width: 350px;">
+<h3>📦 Storage & Archiving</h3>
+<ul>
+<li>S3 Buckets</li>
+<li>EBS</li>
+<li>EFS</li>
+<li>Backup & Archival</li>
+</ul>
+</div>
+
+<!-- Monitoring & Security -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🔐 Monitoring & Security</h3>
+<ul>
+<li>CloudWatch Metrics</li>
+<li>CloudTrail Logs</li>
+<li>Auditing</li>
+<li>Security Best Practices</li>
+</ul>
+</div>
+
+<!-- Resource Consumption -->
+<div style="flex: 1; min-width: 350px;">
+<h3>💰 Managing Resource Consumption</h3>
+<ul>
+<li>Cost Explorer</li>
+<li>Budgets</li>
+<li>Billing Tools</li>
+<li>Cost Optimization</li>
+</ul>
+</div>
+
+<!-- Automated Deployments -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🤖 Automated Deployments</h3>
+<ul>
+<li>Infrastructure as Code</li>
+<li>CloudFormation Basics</li>
+<li>Automated Pipelines</li>
+</ul>
+</div>
+
+<!-- Machine Learning & Gen AI -->
+<div style="flex: 1; min-width: 350px;">
+<h3>🤖 Machine Learning & Generative AI</h3>
+<ul>
+<li>ML Concepts</li>
+<li>AI/ML Use Cases</li>
+<li>AWS GenAI Services</li>
+</ul>
+</div>
+
+</div>
 
 ---
 
