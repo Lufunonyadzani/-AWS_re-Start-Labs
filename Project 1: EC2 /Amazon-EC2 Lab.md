@@ -26,13 +26,3 @@ Steps performed:
 9. Adding User Data script:
 10. <img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/d1073605-9d8a-4227-a014-62347ad74c6a" />
 
-11. 
-12. 
-
-```bash
-#!/bin/bash
-yum -y install httpd
-systemctl enable httpd
-systemctl start httpd
-echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
-
