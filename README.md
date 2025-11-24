@@ -42,6 +42,8 @@ The program focuses on **AWS Cloud fundamentals**, **Linux**, **networking**, **
 
 Each lab or module has its own folder with relevant files, screenshots, and explanations.
 
+Project 1: EC2 /Amazon-EC2 Lab.md
+
 
  
 ---
