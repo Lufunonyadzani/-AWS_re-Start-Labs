@@ -46,6 +46,13 @@ Each lab or module has its own folder with relevant files, screenshots, and expl
 
 [Project 2: Lunix/Linux.md](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/blob/main/Project%202%3A%20Lunix/Linux.md)
 
+[Project 3: Database](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%203%3A%20Database)
+
+
+[Project 4: Networking](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%204%3A%20Networking)
+
+
+
 
 
  
