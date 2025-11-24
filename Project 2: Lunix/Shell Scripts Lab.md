@@ -36,39 +36,40 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
   ```bash
   pwd
   ```
-* Create a backup alias:
+* Create a backup file:
 
   ```bash
-  alias backup='tar -cvzf'
+ touch backup.sh
   ```
-* Backup a folder:
+* changing the file privileges to make backup.sh be executable, :
 
   ```bash
-  backup backup_companyA.tar.gz CompanyA
+ sudo chmod 755 backup.sh
   ```
-* Verify the backup:
+*Running  backup.sh file:
 
   ```bash
-  ls
+  vi backup.sh
+
   ```
 
-### Task 3: Explore and Update PATH
-
-* Navigate to the script folder:
+### Task 3: Editing the file
+* By pressing i and enter:
 
   ```bash
-  cd /home/ec2-user/CompanyA/bin
+#!/bin/bash                                                                                                           
+DAY="$(date +%Y_%m_%d)"                                                       
+BACKUP="/home/$USER/backups/$DAY-backup-CompanyA.tar.gz"                             
+tar -csvpzf $BACKUP /home/$USER/CompanyA     
   ```
 * Run the script:
 
   ```bash
-  ./hello.sh
-  ```
+backup.sh  ```
 * Add the folder to `PATH` for easier execution:
 
   ```bash
   PATH=$PATH:/home/ec2-user/CompanyA/bin
-  hello.sh
   ```
 
 ---
