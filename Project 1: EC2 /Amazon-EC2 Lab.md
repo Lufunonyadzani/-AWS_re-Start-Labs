@@ -17,17 +17,17 @@ Steps performed:
 3. Changing Instance type: **t3.micro**
 4. <img width="1366" height="768" alt="Image 2" src="https://github.com/user-attachments/assets/ed8c41d4-d499-4139-b878-880787881889" />
 
-5. Configured **termination protection**
+5. Configured **Networking**
 6. <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/ec672d3f-500a-4997-b1c5-f096f0386bd7" />
 
-7. Did **not** use a key pair
+7.Configuring storage
 8. <img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/4b0b6350-49e2-4f8b-8d9d-7ee8e4020026" />
 
-9. Used **Lab VPC**
+9. Adding User Data script:
 10. <img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/d1073605-9d8a-4227-a014-62347ad74c6a" />
 
-11. Created a **Web Server security group**  
-12. Added User Data script:
+11. 
+12. 
 
 ```bash
 #!/bin/bash
@@ -35,3 +35,4 @@ yum -y install httpd
 systemctl enable httpd
 systemctl start httpd
 echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
+
