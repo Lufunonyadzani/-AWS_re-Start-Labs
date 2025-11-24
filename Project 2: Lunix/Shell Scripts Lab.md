@@ -61,6 +61,8 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
    BACKUP="/home/$USER/backups/$DAY-backup-CompanyA.tar.gz"                             
    tar -csvpzf $BACKUP /home/$USER/CompanyA  
   ```
+  <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/98d158f1-067d-4c39-84f0-c59fd4f23484" />
+
 * Run the script:
 
   ```bash
