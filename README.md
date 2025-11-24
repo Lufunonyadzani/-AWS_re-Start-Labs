@@ -9,8 +9,7 @@ This collection showcases my hands-on labs, exercises, and projects completed as
 
 ## 🎯 Program Overview
 
-**AWS re/Start** is a full-time, instructor-led training program designed to prepare learners for entry-level cloud roles.  
-The program focuses on **AWS Cloud fundamentals**, **Linux**, **networking**, **security**, and **Python scripting**, while also developing **professional skills** for the tech industry.
+I completed the AWS re/Start program, a full-time, hands-on cloud training journey designed to build technical readiness for cloud-focused roles. Throughout the program, I gained both foundational and advanced skills across core AWS services, Linux systems, networking, security, automation, and modern cloud architectures.
 
 ---
 
