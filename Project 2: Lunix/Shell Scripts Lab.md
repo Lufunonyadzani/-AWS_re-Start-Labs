@@ -37,14 +37,14 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
   pwd
   ```
 * Create a backup file:
-
-  ```bash
- touch backup.sh
+    ```bash
+  touch backup.sh
   ```
+  
 * changing the file privileges to make backup.sh be executable, :
 
   ```bash
- sudo chmod 755 backup.sh
+   sudo chmod 755 backup.sh
   ```
 *Running  backup.sh file:
 
@@ -57,10 +57,9 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
 * By pressing i and enter:
 
   ```bash
-#!/bin/bash                                                                                                           
-DAY="$(date +%Y_%m_%d)"                                                       
-BACKUP="/home/$USER/backups/$DAY-backup-CompanyA.tar.gz"                             
-tar -csvpzf $BACKUP /home/$USER/CompanyA     
+   DAY="$(date +%Y_%m_%d)"                                                       
+   BACKUP="/home/$USER/backups/$DAY-backup-CompanyA.tar.gz"                             
+   tar -csvpzf $BACKUP /home/$USER/CompanyA  
   ```
 * Run the script:
 
