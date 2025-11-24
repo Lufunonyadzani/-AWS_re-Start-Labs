@@ -64,7 +64,7 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
 * Run the script:
 
   ```bash
-backup.sh  ```
+   backup.sh  ```
 * Add the folder to `PATH` for easier execution:
 
   ```bash
