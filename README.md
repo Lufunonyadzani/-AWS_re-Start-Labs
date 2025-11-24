@@ -15,25 +15,41 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 ## 🧩 Topics Covered
 
-### 🐧 Linux Fundamentals
-- Introduction to Linux and the Command Line  
-- File and Directory Management  
-- Users and Groups  
-- Editing Files and Permissions  
-- Shell Commands and Scripting
+| 🐧 **Linux Fundamentals** | ☁️ **Cloud Foundations** |
+|---------------------------|---------------------------|
+| • Intro to Linux & CLI<br>• File & Directory Management<br>• Users & Groups<br>• Editing Files & Permissions<br>• Shell Scripting | • Core Cloud Concepts<br>• AWS Global Infrastructure<br>• Shared Responsibility Model<br>• Cloud Deployment Models |
 
-### ☁️ AWS Cloud Services
-- EC2: Launch and manage virtual servers  
-- S3: Manage cloud storage and hosting  
-- IAM: User and policy management  
-- CloudWatch: Monitoring and logs  
-- VPC: Networking and security configurations
+| ☁️ **AWS Cloud Services** | 🐍 **Python Programming** |
+|---------------------------|---------------------------|
+| • EC2<br>• S3<br>• IAM<br>• CloudWatch<br>• VPC | • Variables & Data Types<br>• Functions & Control Flow<br>• File Handling<br>• Modules<br>• boto3 Basics |
 
-### 🐍 Python Basics
-- Variables, Data Types, and Operators  
-- Control Flow and Functions  
-- File Handling and Modules  
-- AWS SDK (boto3) Introduction  
+| 🗄️ **Databases** | 🏗️ **AWS Architecture** |
+|------------------|-------------------------|
+| • SQL Basics<br>• RDBMS vs NoSQL<br>• Queries<br>• DB Design | • High Availability<br>• Fault Tolerance<br>• Scalability<br>• Well-Architected Framework |
+
+| 🛠️ **Systems Operations** | ⚙️ **Tooling & Automation** |
+|---------------------------|------------------------------|
+| • Deploying Workloads<br>• Configuring Compute & Storage<br>• Troubleshooting | • Git & Version Control<br>• Automation Tools<br>• Intro to CI/CD |
+
+| 🖥️ **Servers** | 📡 **Scaling & Name Resolution** |
+|----------------|----------------------------------|
+| • Compute Types<br>• Server Config<br>• Volume Handling | • Load Balancing<br>• Auto Scaling<br>• DNS<br>• Route 53 |
+
+| 🧩 **Serverless & Containers** | 🗃️ **AWS Database Services** |
+|-------------------------------|-------------------------------|
+| • Lambda<br>• Docker Basics<br>• ECS/ECR | • RDS<br>• DynamoDB<br>• Aurora |
+
+| 🌐 **AWS Networking Services** | 📦 **Storage & Archiving** |
+|-------------------------------|-----------------------------|
+| • VPC Components<br>• Security Groups<br>• NACLs | • S3<br>• EBS<br>• EFS<br>• Backups |
+
+| 🔐 **Monitoring & Security** | 💰 **Managing Resource Consumption** |
+|------------------------------|--------------------------------------|
+| • CloudWatch<br>• CloudTrail<br>• Auditing | • Cost Explorer<br>• Billing<br>• Budgets |
+
+| 🤖 **Automated Deployments** | 🤖 **Machine Learning & Gen AI** |
+|------------------------------|------------------------------------|
+| • IaC Concepts<br>• CloudFormation Basics | • ML Concepts<br>• AWS ML Services<br>• Gen AI Tools |
 
 ---
 
