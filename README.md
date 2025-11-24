@@ -1,5 +1,4 @@
-# ☁️Lufuno Nyadzani
-
+# ☁️AWS re/Start Journey
 Welcome to my **AWS re/Start Labs Repository**!  I'm Lufuno Nyadzani
 
 This collection showcases my hands-on labs, exercises, and projects completed as part of the **AWS re/Start Cloud Practitioner Program**.
