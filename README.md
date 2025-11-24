@@ -1,4 +1,4 @@
-#                                                              ☁️ AWS re/Start Labs Portfolio
+#       ☁️ AWS re/Start Labs Portfolio
 
 Welcome to my **AWS re/Start Labs Repository**!  I'm Lufuno Nyadzani
 
