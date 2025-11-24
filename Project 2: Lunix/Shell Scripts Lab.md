@@ -11,30 +11,6 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
 
 ---
 
-## Lab Objectives
-
-1. **Create an alias for backups**:
-
-   * Use the `tar` command with an alias to backup any specified folder.
-   * Example usage:
-
-     ```bash
-     backup backup_companyA.tar.gz CompanyA
-     ```
-   * This creates a compressed `.tar.gz` archive of the `CompanyA` folder.
-
-2. **Explore and update PATH**:
-
-   * Understand how the `PATH` environment variable affects script execution.
-   * Add `/home/ec2-user/CompanyA/bin` to `PATH` to run scripts without specifying the full path.
-   * Example:
-
-     ```bash
-     PATH=$PATH:/home/ec2-user/CompanyA/bin
-     hello.sh
-     ```
-
----
 
 ## Steps Performed
 
