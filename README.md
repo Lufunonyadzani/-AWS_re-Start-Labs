@@ -44,7 +44,7 @@ Each lab or module has its own folder with relevant files, screenshots, and expl
 
 [Project 1: EC2 /Amazon-EC2 Lab.md](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/blob/main/Project%201%3A%20EC2%20/Amazon-EC2%20Lab.md)
 
-[Project 2: Lunix/Linux.md](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/blob/main/Project%202%3A%20Lunix/Linux.md))
+[Project 2: Lunix/Linux.md](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/blob/main/Project%202%3A%20Lunix/Linux.md)
 
 
 
