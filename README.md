@@ -42,9 +42,9 @@ The program focuses on **AWS Cloud fundamentals**, **Linux**, **networking**, **
 
 Each lab or module has its own folder with relevant files, screenshots, and explanations.
 
-[Project 1: EC2 /Amazon-EC2 Lab.md](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/blob/main/Project%201%3A%20EC2%20/Amazon-EC2%20Lab.md)
+[Project 1: EC2](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%201%3A%20EC2%20)
 
-[Project 2: Lunix/Linux.md](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/blob/main/Project%202%3A%20Lunix/Linux.md)
+[Project 2: Lunix](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%202%3A%20Lunix)
 
 [Project 3: Database](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%203%3A%20Database)
 
