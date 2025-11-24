@@ -52,6 +52,11 @@ Each lab or module has its own folder with relevant files, screenshots, and expl
 [Project 4: Networking](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%204%3A%20Networking)
 
 
+[Project 5: IAM](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%205%3A%20IAM)
+
+
+[Project 6: Security](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%206%3A%20Security)
+
 
 
 
