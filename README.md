@@ -1,4 +1,4 @@
-# ☁️ Welcome to my AWS re/Start Journey! I'm Lufuno Nyadzani
+# ☁️Lufuno Nyadzani
 
 Welcome to my **AWS re/Start Labs Repository**!  I'm Lufuno Nyadzani
 
