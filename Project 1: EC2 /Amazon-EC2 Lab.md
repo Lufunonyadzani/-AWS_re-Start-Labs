@@ -11,7 +11,8 @@ A User Data script deploys a simple Apache web server that displays **"Hello Fro
 Steps performed:
 
 1. Launched an **Amazon Linux 2023** EC2 instance
-2.   <img width="1366" height="768" alt="Screenshot_2025-11-24_15_37_00" src="https://github.com/user-attachments/assets/bcfd7624-69b3-444a-8e40-123184933289" />
+2.   <img width="1366" height="768" alt="EC2" src="https://github.com/user-attachments/assets/e1666e2a-5399-4919-9b47-665420223b9a" />
+
 
 3. Instance type: **t3.micro**  
 4. Configured **termination protection**  
