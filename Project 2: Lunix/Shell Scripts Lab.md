@@ -26,6 +26,8 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
   ```bash
   ssh -i labsuser.pem ec2-user@<public-ip>
   ```
+  <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/0f3774aa-2a2e-42d1-8d00-1f4266d9525c" />
+
 
 ### Task 2: Create Backup Alias
 
@@ -77,12 +79,5 @@ This lab demonstrates the use of Bash shell commands on an Amazon Linux EC2 inst
 * The `PATH` variable controls where Linux searches for executables.
 * Scripts not in `PATH` require the full path to execute.
 * `tar` can compress directories into `.tar.gz` archives for backup.
-
----
-
-## References
-
-* [GNU Tar Manual](https://www.gnu.org/software/tar/manual/tar.html)
-* [Linux PATH Environment Variable](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/)
 
 ---
