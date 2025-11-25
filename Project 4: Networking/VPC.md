@@ -1,7 +1,7 @@
 
 ---
 
-# 🌐 Create Subnets and Allocate IP Addresses in an Amazon VPC
+# 🌐 Created Subnets and Allocate IP Addresses in an Amazon VPC
 
 This repository contains my notes and steps from the **AWS VPC Subnetting Lab**, where I practiced creating a VPC, allocating subnets, and assigning IP addresses in a customer scenario.
 
