@@ -1,5 +1,4 @@
-Here is a clean, professional **GitHub README** you can use for this lab.
-I made it simple, clear, and structured — perfect for a school, AWS or SQL practice repository.
+
 
 ---
 
