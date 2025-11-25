@@ -1,76 +1,71 @@
-
 🌐 Create Subnets and Allocate IP Addresses in an Amazon VPC
 
-This repository documents the steps, notes, and explanations from the AWS VPC Subnetting Lab, where a customer required assistance designing a VPC with specific IP requirements.
+This repository contains notes and steps used during the AWS VPC Subnetting Lab, where I created a VPC, calculated CIDR ranges, and configured subnets based on a customer request.
 
-📌 Objectives
+✅ Objectives
 
-In this lab, I learned how to:
+Summarize the customer scenario
 
-Understand customer networking requirements
+Create a VPC with the correct IPv4 CIDR block
 
-Create an Amazon VPC
+Allocate private and public IP address ranges
 
-Allocate a correct CIDR block for ~15,000 private IP addresses
+Create a public subnet with at least 50 IPs
 
-Create a public subnet with at least 50 IP addresses
+Use the AWS Management Console to configure VPC resources
 
-Use the AWS Management Console to configure networking resources
-
-Summarize findings and explain the solution like a cloud support engineer
+Provide a walkthrough guide for the customer
 
 🧑‍💼 Customer Scenario
 
-A startup owner, Paulo Santos, opened a support ticket requesting help creating a VPC. Their requirements:
+A startup owner needs:
 
-The VPC must use a 192.x.x.x private IPv4 range
+A VPC using the 192.x.x.x private range
 
-Must support around 15,000 private IP addresses
+At least 15,000 private IP addresses
 
-Must include a public subnet with at least 50 IP addresses
+A public subnet with ≥ 50 IP addresses
 
-Include basic components: VPC, Internet Gateway, Route Table, Public Subnet
+A simple VPC architecture with an Internet Gateway and one public subnet
+
+📘 Private IP Ranges (RFC 1918)
+10.0.0.0 – 10.255.255.255
+172.16.0.0 – 172.31.255.255
+192.168.0.0 – 192.168.255.255   ← customer wants this range
 
 🧠 CIDR Planning
-✔ Private IP ranges (RFC 1918)
+VPC needs around 15,000 IP addresses
 
-10.0.0.0 – 10.255.255.255 (10/8)
+Using the subnet calculator:
 
-172.16.0.0 – 172.31.255.255 (172.16/12)
+/18 = 16,384 total IPs → ✔ meets requirement
 
-192.168.0.0 – 192.168.255.255 (192.168/16) ← customer wants this range
-
-✔ VPC Requirement: ~15,000 IPs
-
-A subnet calculator shows:
-
-/18 = 16,384 IP addresses
-Perfect for 15,000 usable IPs.
-
-👉 Selected VPC CIDR:
+Chosen VPC CIDR Block
 
 192.168.0.0/18
 
-✔ Public Subnet Requirement: ≥ 50 IPs
+Public subnet needs at least 50 IPs
 
-/26 = 64 IP addresses (62 usable)
+/26 = 64 total IPs (62 usable)
 
-👉 Selected Public Subnet:
+Chosen Public Subnet CIDR
 
 192.168.1.0/26
 
-🛠️ Task 1: Build the VPC
-1. Open AWS Console → search VPC
-2. Choose Launch VPC Wizard
-3. Select VPC with a Single Public Subnet
+🛠️ VPC Creation Steps
+1. Open AWS Console → Search for VPC
+2. Select Launch VPC Wizard
+3. Choose:
+VPC with a Single Public Subnet
+
 4. Configure:
 Setting	Value
 VPC Name	First VPC
 IPv4 CIDR	192.168.0.0/18
 IPv6	No IPv6
 Public Subnet CIDR	192.168.1.0/26
-AZ	No Preference
+Availability Zone	No Preference
 Subnet Name	Public subnet
-Internet Gateway	Enabled (default)
-Route Table	Auto-created
-5. Create VPC
+Internet Gateway	Enabled
+Route Table	Automatic
+5. Click Create VPC
