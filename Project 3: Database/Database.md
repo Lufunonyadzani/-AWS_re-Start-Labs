@@ -67,3 +67,26 @@ CREATE TABLE world.country (
 ```
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/229d3c14-eaa3-4076-8503-97d81404e8fd" />
 
+## 🖥️ **Task 1: Connect to the Command Host**
+
+Commands used to connect after opening Session Manager:
+
+```bash
+sudo su
+cd /home/ec2-user/
+mysql -u root --password='re:St@rt!9'
+```
+
+---
+
+## 🖥️ **Task 1: Connect to the Command Host**
+
+Commands used to connect after opening Session Manager:
+
+```bash
+sudo su
+cd /home/ec2-user/
+mysql -u root --password='re:St@rt!9'
+```
+
+---
