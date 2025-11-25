@@ -67,26 +67,27 @@ CREATE TABLE world.country (
 ```
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/229d3c14-eaa3-4076-8503-97d81404e8fd" />
 
-## 🖥️ **Task 1: Connect to the Command Host**
+## 🖥️ **Task 4: Alter the Table**
 
-Commands used to connect after opening Session Manager:
+Commands used to alter the Table:
 
 ```bash
-sudo su
-cd /home/ec2-user/
-mysql -u root --password='re:St@rt!9'
+ALTER TABLE world.country RENAME COLUMN Conitinent TO Continent;
+
 ```
+<img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/5f8f68af-eb0a-401c-9057-7dab86b12fc4" />
+
 
 ---
 
-## 🖥️ **Task 1: Connect to the Command Host**
+## 🖥️ **Task 5: Delete a database and tables**
 
-Commands used to connect after opening Session Manager:
+Commands used to delete a database and tables:
 
 ```bash
-sudo su
-cd /home/ec2-user/
-mysql -u root --password='re:St@rt!9'
+DROP DATABASE world;
 ```
+<img width="1366" height="768" alt="image 6" src="https://github.com/user-attachments/assets/817f8a2d-2d66-4a4b-bc3d-16cf14c1cec6" />
+
 
 ---
