@@ -62,26 +62,24 @@ Customer request:
 
 ## 🛠️ **Task 3: Create the VPC**
 
-### Step 1: Open AWS Console → Search for **VPC**
+### Step 1: Opened VPC on AWS Console 
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/883ce441-39c2-4921-8cd3-935a8e924734" />
 
-### Step 2: Launch VPC Wizard
+
+### Step 2: Setting name and CIDR Block**
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/00f020bc-d09c-465a-9a7a-34fbf65ec105" />
+
+
 
 Select: **VPC with a Single Public Subnet**
 
 ### Step 3: Configure Settings
+<img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/277cc03b-3f7c-4539-8c8d-53ff95e91a56" />
 
-| Setting            | Value             |
-| ------------------ | ----------------- |
-| VPC Name           | First VPC         |
-| IPv4 CIDR          | 192.168.0.0/18    |
-| IPv6 CIDR          | No IPv6           |
-| Public Subnet CIDR | 192.168.1.0/26    |
-| Availability Zone  | No Preference     |
-| Subnet Name        | Public subnet     |
-| Internet Gateway   | Enabled (default) |
-| Route Table        | Auto-created      |
+### Step 4: Created VPC
 
-### Step 4: Create VPC
+<img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/e80cfaea-8677-4477-9e72-b8fd13cd196f" />
+
 
 
 ## ✅ Conclusion
