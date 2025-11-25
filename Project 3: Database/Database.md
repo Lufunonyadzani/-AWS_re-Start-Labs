@@ -29,6 +29,7 @@ mysql -u root --password='re:St@rt!9'
 ```
 
 ---
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/31b6773f-5bbf-4761-b254-1ad0f0940709" />
 
 ## 🗄️ **Task 2: Create Database & Tables**
 
@@ -43,6 +44,8 @@ SHOW DATABASES;
 ```sql
 CREATE DATABASE world;
 ```
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/d80104e5-b61d-459b-9f12-e76929684d18" />
+
 
 ### ✔️ Create the `country` table
 
@@ -62,3 +65,5 @@ CREATE TABLE world.country (
   `GovernmentForm` CHAR(45) NOT NULL DEFAULT '',
   `HeadOfState` CHAR
 ```
+<img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/229d3c14-eaa3-4076-8503-97d81404e8fd" />
+
