@@ -32,13 +32,6 @@ Customer request:
 
 ## 🗄️ **Task 2: Plan CIDR Blocks**
 
-### 📌 Private IP Ranges (RFC 1918)
-
-```
-10.0.0.0 – 10.255.255.255
-172.16.0.0 – 172.31.255.255
-192.168.0.0 – 192.168.255.255 ← customer request
-```
 
 ### 📌 VPC CIDR Block
 
@@ -71,8 +64,6 @@ Customer request:
 
 
 
-Select: **VPC with a Single Public Subnet**
-
 ### Step 3: Configure Settings
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/277cc03b-3f7c-4539-8c8d-53ff95e91a56" />
 
@@ -84,7 +75,7 @@ Select: **VPC with a Single Public Subnet**
 
 ## ✅ Conclusion
 
-You have now successfully:
+I have now successfully:
 
 * ✔️ Designed a VPC with private and public subnets
 * ✔️ Allocated IP addresses based on customer requirements
@@ -94,4 +85,4 @@ You have now successfully:
 ---
 
 
-Do you want me to do that next?
+
