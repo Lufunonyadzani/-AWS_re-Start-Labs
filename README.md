@@ -195,40 +195,6 @@ By the end of this program, I will be able to:
 
 ---
 
-## 🧰 Tools and Technologies
-
-| Category | Tools |
-|-----------|-------|
-| **Cloud Platform** | AWS (EC2, S3, IAM, VPC, CloudWatch) |
-| **Operating System** | Linux (Amazon Linux 2, Ubuntu) |
-| **Programming** | Python |
-| **Version Control** | Git & GitHub |
-| **Monitoring** | CloudWatch, CloudTrail |
-| **Web** | HTML, CSS (for simple web deployments) |
-
----
-
-## 🗓️ Progress Tracker
-
-| Module | Status | Description |
-|---------|---------|-------------|
-| Introduction to Linux | ✅ Completed | Basic commands and file management |
-| Linux Command Line | ✅ Completed | Shell navigation and utilities |
-| Users and Groups | ✅ Completed | Permissions and ownership |
-| Editing Files in Linux | 🟢 In Progress | Using nano and vi editors |
-| EC2 Web Server Lab | 🟢 In Progress | Launching and managing EC2 instances |
-| Python Basics | ⚪ Pending | Programming and automation with Python |
-
----
-
-## 🧑‍💻 Author
-
-**Name:** Lufuno Nyadzani  
-**Program:** Praesignis AWS re/Start  
-**Cohort:** ZAJOH38  
-**Platform:** Vocareum / Canvas / AWS Educate  
-
----
 
 ## 🌐 Connect with Me
 
