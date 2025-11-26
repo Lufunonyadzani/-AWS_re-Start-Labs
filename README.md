@@ -1,4 +1,4 @@
-# ☁️AWS re/Start Journey
+# AWS re/Start Journey
 Welcome to my **AWS re/Start Labs Repository**!  I'm Lufuno Nyadzani I’m someone who genuinely enjoys technology, especially anything related to cloud computing. Over time, this interest has grown into a clear career goal: becoming a Senior Solutions Architect. Completing my IT Diploma gave me the foundation to understand how systems work, but exploring cloud platforms is what truly sparked my ambition.
 
 What draws me to the cloud is how it enables businesses to operate smarter and faster. The idea that you can design solutions that scale on demand, stay secure, and reduce complexity motivates me to keep learning. I want to be the kind of architect who creates systems that are not only technically strong but also make a real difference in how companies run.
@@ -7,19 +7,19 @@ This collection showcases my hands-on labs, exercises, and projects completed as
 
 ---
 
-## 🎯 Program Overview
+## Program Overview
 
 I completed the AWS re/Start program, a full-time, hands-on cloud training journey designed to build technical readiness for cloud-focused roles. Throughout the program, I gained both foundational and advanced skills across core AWS services, Linux systems, networking, security, automation, and modern cloud architectures.
 
 ---
 
-## 🧩 Topics Covered
+## Topics Covered
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; width: 100%;">
 
 <!-- Linux Fundamentals -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🐧 Linux Fundamentals</h3>
+<h3> Linux Fundamentals</h3>
 <ul>
 <li>Introduction to Linux & CLI</li>
 <li>File & Directory Management</li>
@@ -31,7 +31,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Cloud Foundations -->
 <div style="flex: 1; min-width: 350px;">
-<h3>☁️ Cloud Foundations</h3>
+<h3>Cloud Foundations</h3>
 <ul>
 <li>Core Cloud Concepts</li>
 <li>AWS Global Infrastructure</li>
@@ -42,7 +42,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- AWS Cloud Services -->
 <div style="flex: 1; min-width: 350px;">
-<h3>☁️ AWS Cloud Services</h3>
+<h3>AWS Cloud Services</h3>
 <ul>
 <li>EC2: Virtual Servers</li>
 <li>S3: Cloud Storage</li>
@@ -54,7 +54,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Python Programming -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🐍 Python Programming</h3>
+<h3> Python Programming</h3>
 <ul>
 <li>Variables & Data Types</li>
 <li>Functions & Control Flow</li>
@@ -66,7 +66,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Databases -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🗄️ Databases</h3>
+<h3>Databases</h3>
 <ul>
 <li>SQL Basics</li>
 <li>Relational vs NoSQL</li>
@@ -77,7 +77,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- AWS Architecture -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🏗️ AWS Architecture</h3>
+<h3>AWS Architecture</h3>
 <ul>
 <li>High Availability</li>
 <li>Fault Tolerance</li>
@@ -88,7 +88,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Systems Operations -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🛠️ Systems Operations</h3>
+<h3>Systems Operations</h3>
 <ul>
 <li>Deploying Workloads</li>
 <li>Compute & Storage Configurations</li>
@@ -98,7 +98,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Tooling & Automation -->
 <div style="flex: 1; min-width: 350px;">
-<h3>⚙️ Tooling & Automation</h3>
+<h3> Tooling & Automation</h3>
 <ul>
 <li>Git & Version Control</li>
 <li>Automation Tools</li>
@@ -108,7 +108,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Servers -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🖥️ Servers</h3>
+<h3> Servers</h3>
 <ul>
 <li>Compute Types</li>
 <li>Server Configuration</li>
@@ -120,7 +120,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Serverless & Containers -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🧩 Serverless & Containers</h3>
+<h3> Serverless & Containers</h3>
 <ul>
 <li>Lambda</li>
 <li>Docker Basics</li>
@@ -137,7 +137,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Automated Deployments -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🤖 Automated Deployments</h3>
+<h3>Automated Deployments</h3>
 <ul>
 <li>Infrastructure as Code</li>
 <li>CloudFormation Basics</li>
@@ -147,7 +147,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 <!-- Machine Learning & Gen AI -->
 <div style="flex: 1; min-width: 350px;">
-<h3>🤖 Machine Learning & Generative AI</h3>
+<h3>Machine Learning & Generative AI</h3>
 <ul>
 <li>ML Concepts</li>
 <li>AI/ML Use Cases</li>
@@ -159,7 +159,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Each lab or module has its own folder with relevant files, screenshots, and explanations.
 
@@ -184,7 +184,7 @@ Each lab or module has its own folder with relevant files, screenshots, and expl
  
 ---
 
-## 🧠 Learning Objectives
+## Learning Objectives
 
 By the end of this program, I will be able to:
 - Deploy and manage AWS EC2 instances  
@@ -196,7 +196,7 @@ By the end of this program, I will be able to:
 ---
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - **GitHub:** [Lufunonyadzani](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main)  
 - **LinkedIn:** *(https://www.linkedin.com/in/lufuno-nyadzani-333ba0316/)*  
