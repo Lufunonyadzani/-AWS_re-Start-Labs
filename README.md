@@ -116,16 +116,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 </ul>
 </div>
 
-<!-- Scaling & Name Resolution -->
-<div style="flex: 1; min-width: 350px;">
-<h3>📡 Scaling & Name Resolution</h3>
-<ul>
-<li>Load Balancing</li>
-<li>Auto Scaling</li>
-<li>DNS Concepts</li>
-<li>Route 53</li>
-</ul>
-</div>
+
 
 <!-- Serverless & Containers -->
 <div style="flex: 1; min-width: 350px;">
@@ -137,26 +128,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 </ul>
 </div>
 
-<!-- AWS Database Services -->
-<div style="flex: 1; min-width: 350px;">
-<h3>🗃️ AWS Database Services</h3>
-<ul>
-<li>RDS</li>
-<li>DynamoDB</li>
-<li>Aurora</li>
-</ul>
-</div>
 
-<!-- AWS Networking Services -->
-<div style="flex: 1; min-width: 350px;">
-<h3>🌐 AWS Networking Services</h3>
-<ul>
-<li>VPC Components</li>
-<li>Security Groups</li>
-<li>Network ACLs</li>
-<li>Routing Tables</li>
-</ul>
-</div>
 
 
 
