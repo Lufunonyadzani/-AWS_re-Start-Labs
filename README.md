@@ -158,38 +158,10 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 </ul>
 </div>
 
-<!-- Storage & Archiving -->
-<div style="flex: 1; min-width: 350px;">
-<h3>📦 Storage & Archiving</h3>
-<ul>
-<li>S3 Buckets</li>
-<li>EBS</li>
-<li>EFS</li>
-<li>Backup & Archival</li>
-</ul>
-</div>
 
-<!-- Monitoring & Security -->
-<div style="flex: 1; min-width: 350px;">
-<h3>🔐 Monitoring & Security</h3>
-<ul>
-<li>CloudWatch Metrics</li>
-<li>CloudTrail Logs</li>
-<li>Auditing</li>
-<li>Security Best Practices</li>
-</ul>
-</div>
 
-<!-- Resource Consumption -->
-<div style="flex: 1; min-width: 350px;">
-<h3>💰 Managing Resource Consumption</h3>
-<ul>
-<li>Cost Explorer</li>
-<li>Budgets</li>
-<li>Billing Tools</li>
-<li>Cost Optimization</li>
-</ul>
-</div>
+
+
 
 <!-- Automated Deployments -->
 <div style="flex: 1; min-width: 350px;">
