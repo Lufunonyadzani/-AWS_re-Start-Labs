@@ -176,12 +176,11 @@ The lab guides you through creating a new database named world, building a table
 [Project 4: Networking](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%204%3A%20Networking)This lab focuses on understanding public and private IP addressing within an AWS VPC by investigating a customer issue where one EC2 instance can access the internet while another cannot. As a cloud support engineer, I analyze the IP configuration of both instances and discover that instance A cannot reach the internet because it only has a private IP address, while instance B has a public IP that allows external connectivity and successful SSH access.
 
 
-[Project 5: IAM](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%205%3A%20IAM)
+[Project 5: Python](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%205%3A%20IAM)
 
 
 [Project 6: Security](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%206%3A%20Security)
-
-
+This lab teaches you how to use Amazon Inspector to automatically scan AWS Lambda functions for vulnerabilities and remediate security findings in a real-world development scenario. Acting as a cloud engineer for AnyCompany, you activate Amazon Inspector, review its dashboard, and observe how it continuously analyzes Lambda functions, EC2 instances, and Amazon ECR images for outdated or vulnerable software. You explore Inspector findings, including severity levels, impacted resources, and CVE details pulled from the National Vulnerability Database.
 
 
  
