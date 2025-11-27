@@ -164,6 +164,7 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 Each lab or module has its own folder with relevant files, screenshots, and explanations.
 
 [Project 1: EC2](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%201%3A%20EC2%20)
+This project focuses on teaching the fundamental skills needed to work with Amazon EC2, guiding you through the full lifecycle of a cloud-based virtual server. You learn how to launch an EC2 instance, configure networking and storage, apply termination protection, and deploy a simple web server using a User Data script. The lab also emphasizes cloud security by showing how to update security groups to allow HTTP traffic, and introduces monitoring tools such as CloudWatch metrics and instance screenshots for troubleshooting. Finally, you practice scaling by resizing both the instance type and EBS volume, and learn how to properly terminate an instance after disabling termination protection.
 
 [Project 2: Lunix](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%202%3A%20Lunix)
 
