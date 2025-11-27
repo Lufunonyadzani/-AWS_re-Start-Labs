@@ -6,7 +6,7 @@ A User Data script deploys a simple Apache web server that displays **"Hello Fro
 
 ---
 
-## 📌 Task 1: Launching the EC2 Instance
+## Task 1: Launching the EC2 Instance
 
 Steps performed:
 
