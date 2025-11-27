@@ -1,13 +1,13 @@
 
 ---
 
-# 🌐 Created Subnets and Allocate IP Addresses in an Amazon VPC
+# Created Subnets and Allocate IP Addresses in an Amazon VPC
 
 This repository contains my notes and steps from the **AWS VPC Subnetting Lab**, where I practiced creating a VPC, allocating subnets, and assigning IP addresses in a customer scenario.
 
 ---
 
-## ✅ Lab Objectives
+##  Lab Objectives
 
 In this lab, I learned how to:
 
@@ -19,7 +19,7 @@ In this lab, I learned how to:
 
 ---
 
-## 🖥️ **Task 1: Investigate Customer Needs**
+##  **Task 1: Investigate Customer Needs**
 
 Customer request:
 
@@ -30,10 +30,10 @@ Customer request:
 
 ---
 
-## 🗄️ **Task 2: Plan CIDR Blocks**
+##  **Task 2: Plan CIDR Blocks**
 
 
-### 📌 VPC CIDR Block
+###  VPC CIDR Block
 
 * Requirement: ~15,000 IPs
 * /18 provides 16,384 IPs → fits requirement
@@ -42,7 +42,7 @@ Customer request:
 192.168.0.0/18
 ```
 
-### 📌 Public Subnet CIDR Block
+###  Public Subnet CIDR Block
 
 * Requirement: ≥ 50 IPs
 * /26 provides 64 IPs → fits requirement
@@ -53,7 +53,7 @@ Customer request:
 
 ---
 
-## 🛠️ **Task 3: Create the VPC**
+##  **Task 3: Create the VPC**
 
 ### Step 1: Opened VPC on AWS Console 
 <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/883ce441-39c2-4921-8cd3-935a8e924734" />
@@ -73,7 +73,7 @@ Customer request:
 
 
 
-## ✅ Conclusion
+##  Conclusion
 
 I have now successfully:
 
