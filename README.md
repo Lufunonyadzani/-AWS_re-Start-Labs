@@ -177,6 +177,7 @@ The lab guides you through creating a new database named world, building a table
 
 
 [Project 5: Python](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%205%3A%20IAM)
+This lab introduces you to basic programming through Python and teaches you how to create and run your first Python script using the AWS Cloud9 IDE. After launching the lab environment and opening Cloud9, you create a new Python file, save it with a .py extension, and explore the terminal to verify available Python versions. You then write a simple print("Hello, World") statement to confirm that your Python environment is working correctly.
 
 
 [Project 6: Security](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%206%3A%20Security)
