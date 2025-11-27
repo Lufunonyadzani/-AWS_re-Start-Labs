@@ -173,7 +173,7 @@ This lab focuses on teaching essential Bash shell and Linux command-line skills 
 The lab guides you through creating a new database named world, building a table called country, and examining its structure with queries such as SHOW DATABASES, SHOW TABLES, and SHOW COLUMNS. You also learn how to correct a mistake in the table schema using the ALTER TABLE command. Additional challenges include creating a new table and working with common data types. The final part of the lab teaches how to safely delete tables and databases using the DROP command, reinforcing the importance of understanding destructive operations.
 
 
-[Project 4: Networking](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%204%3A%20Networking)
+[Project 4: Networking](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%204%3A%20Networking)This lab focuses on understanding public and private IP addressing within an AWS VPC by investigating a customer issue where one EC2 instance can access the internet while another cannot. As a cloud support engineer, I analyze the IP configuration of both instances and discover that instance A cannot reach the internet because it only has a private IP address, while instance B has a public IP that allows external connectivity and successful SSH access.
 
 
 [Project 5: IAM](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main/Project%205%3A%20IAM)
