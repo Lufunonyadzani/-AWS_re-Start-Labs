@@ -86,26 +86,6 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 </ul>
 </div>
 
-<!-- Systems Operations -->
-<div style="flex: 1; min-width: 350px;">
-<h3>Systems Operations</h3>
-<ul>
-<li>Deploying Workloads</li>
-<li>Compute & Storage Configurations</li>
-<li>Basic Troubleshooting</li>
-</ul>
-</div>
-
-<!-- Tooling & Automation -->
-<div style="flex: 1; min-width: 350px;">
-<h3> Tooling & Automation</h3>
-<ul>
-<li>Git & Version Control</li>
-<li>Automation Tools</li>
-<li>CI/CD Fundamentals</li>
-</ul>
-</div>
-
 <!-- Servers -->
 <div style="flex: 1; min-width: 350px;">
 <h3> Servers</h3>
@@ -115,25 +95,6 @@ I completed the AWS re/Start program, a full-time, hands-on cloud training journ
 <li>Volume Management</li>
 </ul>
 </div>
-
-
-
-<!-- Serverless & Containers -->
-<div style="flex: 1; min-width: 350px;">
-<h3> Serverless & Containers</h3>
-<ul>
-<li>Lambda</li>
-<li>Docker Basics</li>
-<li>ECS & ECR</li>
-</ul>
-</div>
-
-
-
-
-
-
-
 
 <!-- Automated Deployments -->
 <div style="flex: 1; min-width: 350px;">
