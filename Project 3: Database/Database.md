@@ -2,11 +2,11 @@
 
 ---
 
-# 📘 Database Table Operations — AWS SQL Lab
+#  Database Table Operations — AWS SQL Lab
 
 This repository contains my notes and steps from the **Database Table Operations Lab**, where I practiced working with relational databases on an AWS-provisioned environment using MySQL.
 
-## ✅ Lab Objectives
+## Lab Objectives
 
 In this lab, I learned how to:
 
