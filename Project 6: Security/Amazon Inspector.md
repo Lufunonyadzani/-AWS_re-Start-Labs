@@ -17,11 +17,11 @@ The development team at **AnyCompany** is building an application using AWS Lamb
 
 ##  Objectives
 
-After completing this lab, you will be able to:
+After completing this lab, I will be able to:
 
-* ✔️ Activate **Amazon Inspector**
-* ✔️ Analyze and interpret vulnerability findings
-* ✔️ Remediate vulnerabilities in AWS Lambda functions
+*  Activate **Amazon Inspector**
+*  Analyze and interpret vulnerability findings
+*  Remediate vulnerabilities in AWS Lambda functions
 
 ---
 
@@ -32,6 +32,7 @@ After completing this lab, you will be able to:
 ---
 
 #  Task 1: Activate Amazon Inspector
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/14adb6a8-4272-4e69-ad63-48024b29fc9a" />
 
 
 
@@ -39,36 +40,19 @@ After completing this lab, you will be able to:
 ---
 
 #  Task 2: Reviewing Inspected Resources
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/7329ef90-98de-46e9-9d4b-b8bd66286a33" />
 
 
 
 ---
 
 #  Task 3: Remediating Vulnerability Findings
+<img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/cebaa4ae-db7a-4751-9a65-acec3afe364c" />
 
 
-1. In the AWS Console, search for **Lambda** and open it.
-2. Select the **get-request** Lambda function.
-3. Open the **requirements.txt** file.
-4. Change this line:
 
-   ```
-   requests==2.20.0
-   ```
-
-   to:
-
-   ```
-   requests
-   ```
-
-   This installs the **latest version** of the package automatically.
-5. Click **Deploy**.
-6. After deployment, Amazon Inspector triggers a new scan.
-
+ 
 ---
-
-##  Confirming the Remediation
 
 
 ---
