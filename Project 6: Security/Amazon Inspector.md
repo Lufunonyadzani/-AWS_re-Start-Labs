@@ -75,7 +75,7 @@ After completing this lab, you will be able to:
 
 ## ✅ Lab Complete
 
-You have successfully:
+I have successfully:
 
 * Activated Amazon Inspector
 * Reviewed Lambda vulnerabilities
