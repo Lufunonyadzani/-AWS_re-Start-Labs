@@ -57,7 +57,7 @@ After completing this lab, I will be able to:
 
 ---
 
-## ✅ Lab Complete
+## Lab Complete
 
 I have successfully:
 
