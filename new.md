@@ -67,7 +67,9 @@ A minimum of two labs were completed in each section, including Compute, Storage
 ---
 
 ## Contact Information  
-You can contact me using the details below. My email address is [Your Email Address], and my phone number is [Your Phone Number].
+- **GitHub:** [Lufunonyadzani](https://github.com/Lufunonyadzani/-AWS_re-Start-Labs/tree/main)  
+- **LinkedIn:** *(https://www.linkedin.com/in/lufuno-nyadzani-333ba0316/)*  
+- **Email:** *(Nyadzanil20@gmail.com)*  
 ```
 
 
