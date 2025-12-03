@@ -68,7 +68,7 @@ Project 4: NetworkingThis lab focuses on understanding public and private IP add
 
 Project 5: Python This lab introduces you to basic programming through Python and teaches you how to create and run your first Python script using the AWS Cloud9 IDE. After launching the lab environment and opening Cloud9, you create a new Python file, save it with a .py extension, and explore the terminal to verify available Python versions. You then write a simple print("Hello, World") statement to confirm that your Python environment is working correctly. 
 
-Project 6: Security This lab teaches you how to use Amazon Inspector to automatically scan AWS Lambda functions for vulnerabilities and remediate security findings in a real-world development scenario. Acting as a cloud engineer for AnyCompany, you activate Amazon Inspector, review its dashboard, and observe how it continuously analyzes Lambda functions, EC2 instances, and Amazon ECR images for outdated or vulnerable software. You explore Inspector findings, including severity levels, impacted resources, and CVE details pulled from the National Vulnerability Database. 
+Project 6: Security This lab teaches you how to use Amazon Inspector to automatically scan AWS Lambda functions for vulnerabilities and remediate security findings in a real-world development scenario. Acting as a cloud engineer for AnyCompany, you activate Amazon Inspector, review its dashboard, and observe how it continuously analyzes Lambda functions, EC2 instances, and Amazon ECR images for outdated or vulnerable software. You explore Inspector findings, including severity levels, impacted resources, and CVE details pulled from the National Vulnerability Database.
 
  
 
