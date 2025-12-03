@@ -1,7 +1,4 @@
 
-Perfect — here is your **same README rewritten in clear paragraph format** (no bullet points), still simple and beginner-friendly. You can paste this directly into your `README.md` file:
-
----
 
 ```md
 # AWS re/Start Portfolio – README
@@ -74,10 +71,4 @@ You can contact me using the details below. My email address is [Your Email Addr
 
 ---
 
-✅ If you want, I can now:
 
-* Personalize this with **your real name and project dates**, or
-* Rewrite it into a **formal university / employer portfolio version**, or
-* Shorten it into a **one-page GitHub README**
-
-Just say the word.
