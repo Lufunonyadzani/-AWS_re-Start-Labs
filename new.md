@@ -4,7 +4,8 @@
 # AWS re/Start Portfolio – README
 
 ## Introduction About Me  
-My name is [Your Full Name]. I come from a background where I was new to cloud computing and information technology, but I developed a strong interest in technology and problem-solving. My career goal is to become a Cloud Practitioner or Cloud Support Engineer and to work professionally with AWS services in the future.
+My name is Lufuno Nyadzani. I hold a Diploma in Information Technology with a strong focus on Networking, Security, Cloud Computing, and Java programming. This qualification gave me a solid foundation in both theoretical and practical IT skills, especially in understanding how networks operate, how systems are secured, how cloud platforms function, and how software applications are developed. My career goal is to become a Cloud Practitioner or Cloud Support Engineer and to work professionally with AWS services while continuously growing my technical expertise.
+
 
 ---
 
