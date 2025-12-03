@@ -1,6 +1,6 @@
 
 
-```md
+
 # AWS re/Start Portfolio – README
 
 ## Introduction About Me  
@@ -69,6 +69,5 @@ A minimum of two labs were completed in each section, including Compute, Storage
 You can contact me using the details below. My email address is [Your Email Address], and my phone number is [Your Phone Number].
 ```
 
----
 
 
