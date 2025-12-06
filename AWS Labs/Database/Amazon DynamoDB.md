@@ -25,19 +25,25 @@ By completing this lab, I was able to:
 
 ##  Task 1: Create a New DynamoDB Table
 
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/cb69660d-39de-4bc3-8165-b861ac84c18d" />
 
 ---
 
 ## Task 2: Add Data to the Table
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/d58e8efa-b353-4a10-b73d-1ea486727b64" />
 
 ---
 
 ## Task 3: Modify an Existing Item
+<img width="1366" height="768" alt="image 3 1" src="https://github.com/user-attachments/assets/8fd64061-f550-454d-89e8-aa15603fe5d8" />
+<img width="1366" height="768" alt="image 3 2" src="https://github.com/user-attachments/assets/0b4cdabd-5a96-4c3d-9386-d2617a08e776" />
 
 ---
 
 ## Task 4: Query and Scan the Table
+<img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/bcf0aa65-d3c7-4c06-a258-856f025dad08" />
 
 
 ## Task 5: Delete the Table
+<img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/a54476f4-9846-4f43-b68f-8b31e22ac246" />
 
