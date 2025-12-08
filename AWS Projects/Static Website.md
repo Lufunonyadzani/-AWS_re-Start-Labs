@@ -1,7 +1,7 @@
 
-# 🍽️ Restaurant Static Website & AWS Migration Project
+# Restaurant Static Website & AWS Migration Project
 
-## 📌 Project Overview
+## Project Overview
 This project involves designing and deploying a **static website for a real-world restaurant** that is facing operational challenges due to a **high volume of customer bookings and food orders**. These challenges have resulted in **order mix-ups, booking confusion, and poor customer experience**.
 
 To solve this, the restaurant owner wants a **simple, reliable static website** to:
@@ -9,11 +9,11 @@ To solve this, the restaurant owner wants a **simple, reliable static website** 
 - Enable customers to view the menu
 - Streamline table bookings and food orders
 
-In addition, a **PowerPoint presentation** is prepared to demonstrate the **benefits of migrating the restaurant’s digital presence to AWS**.
+
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Build a **fully functional static website**
 - Host the website using **AWS cloud services**
 - Improve **order and booking management**
@@ -22,9 +22,9 @@ In addition, a **PowerPoint presentation** is prepared to demonstrate the **bene
 
 ---
 
-## 🚀 Project Deliverables
+##Project Deliverables
 
-### ✅ 1. Static Website (Hosted on AWS)
+### 1. Static Website (Hosted on AWS)
 The website includes:
 - Home Page
 - About the Restaurant
@@ -42,7 +42,7 @@ The website includes:
 
 ---
 
-### ✅ 2. PowerPoint Presentation
+### 2. PowerPoint Presentation
 The presentation contains:
 - Restaurant Overview
 - Challenges Faced by the Business
@@ -54,7 +54,7 @@ The presentation contains:
 
 ---
 
-## ☁️ AWS Services Used
+##  AWS Services Used
 
 | AWS Service | Purpose |
 |-------------|----------|
@@ -65,7 +65,7 @@ The presentation contains:
 
 ---
 
-## 💰 Cost Analysis (Estimated)
+## Cost Analysis (Estimated)
 - **Amazon S3:** Very low cost for static hosting
 - **CloudFront:** Pay only for data transfer
 - **Route 53:** Low yearly domain cost
@@ -73,7 +73,7 @@ The presentation contains:
 
 ---
 
-## ✅ Benefits of Migrating to AWS
+## Benefits of Migrating to AWS
 - High Availability
 - Scalability
 - Cost Efficiency
@@ -84,7 +84,7 @@ The presentation contains:
 
 ---
 
-## 🛠️ How to Deploy the Website on AWS (Summary)
+## How to Deploy the Website on AWS (Summary)
 1. Create an **S3 bucket**
 2. Enable **Static Website Hosting**
 3. Upload website files
@@ -93,7 +93,7 @@ The presentation contains:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how a **small restaurant can benefit from cloud technology** by using **AWS to host a reliable, cost-effective static website** that improves customer experience and business efficiency.
 
 ---
