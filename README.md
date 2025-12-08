@@ -49,13 +49,10 @@ During the program, I earned several certifications and badges including Securit
 ## Projects  
 
 ### Static Website  
-The Static Website project had a deadline of 28 November. It was hosted using Amazon S3 and CloudFront. The purpose of this project was to demonstrate how to host a website using AWS cloud services.
+The Static Website project. It was hosted using Amazon S3 and CloudFront. The purpose of this project was to demonstrate how to host a website using AWS cloud services.
 
 ### 3D Architecture  
-The 3D Architecture project had a deadline of 5 December. It was created using AWS architecture design tools. The purpose of this project was to visually show how different AWS services connect and work together.
-
-### AWS Lex Bot  
-The AWS Lex Bot project is still to be announced. It is being built using Amazon Lex. The purpose of this project is to create a chatbot that can interact with users using natural language.
+The 3D Architecture project. It was created using AWS architecture design tools. The purpose of this project was to visually show how different AWS services connect and work together.
 
 ---
 
