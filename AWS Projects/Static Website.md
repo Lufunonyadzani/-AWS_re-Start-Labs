@@ -35,22 +35,10 @@ The website includes:
 **Technologies Used:**
 - HTML
 - CSS
-- JavaScript (optional)
+- JavaScript 
 - AWS S3 (Static Website Hosting)
-- AWS CloudFront (Optional – CDN)
-- AWS Route 53 (Optional – Domain)
-
----
-
-### 2. PowerPoint Presentation
-The presentation contains:
-- Restaurant Overview
-- Challenges Faced by the Business
-- Proposed AWS Solution
-- AWS Services Used
-- Cost Analysis
-- Benefits of Migrating to AWS
-- Conclusion & Recommendations
+- AWS CloudFront ( CDN)
+- AWS Route 53 (Domain)
 
 ---
 
@@ -61,7 +49,7 @@ The presentation contains:
 | Amazon S3 | Host the static website |
 | Amazon CloudFront | Improve performance and security |
 | AWS IAM | Manage access and permissions |
-| AWS Route 53 (Optional) | Domain management |
+| AWS Route 53  | Domain management |
 
 ---
 
@@ -84,14 +72,7 @@ The presentation contains:
 
 ---
 
-## How to Deploy the Website on AWS (Summary)
-1. Create an **S3 bucket**
-2. Enable **Static Website Hosting**
-3. Upload website files
-4. Set proper **bucket policy**
-5. (Optional) Connect to **CloudFront** and **Route 53**
 
----
 
 ## Conclusion
 This project demonstrates how a **small restaurant can benefit from cloud technology** by using **AWS to host a reliable, cost-effective static website** that improves customer experience and business efficiency.
