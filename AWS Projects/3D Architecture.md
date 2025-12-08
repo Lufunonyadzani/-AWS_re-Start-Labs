@@ -112,16 +112,7 @@ Using **Amazon S3, CloudFront, EC2 (GPU), Lambda, RDS, DynamoDB, ELB, Route 53, 
 ✔ Cost-Effective  
 ✔ Scalable for global growth  
 
-This architecture is suitable for **real-world enterprise-level 3D shopping platforms**.
-
 ---
-
-##  References
-- AWS Well-Architected Framework – AWS Official Documentation  
-- AWS General Documentation  
-
----
-
 
 
 
