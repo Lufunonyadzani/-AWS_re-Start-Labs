@@ -2,16 +2,12 @@
 
 
 
-# 🛒 AWS 3D E-Commerce Architecture Design  
-**Course:** AWS re-Start Cloud Computing Programme  
-**Cohort:** 06 October 2025 – 26 December 2025  
-**Project:** 2  
-**Date Given:** 01 December 2025  
-**Date Due:** 05 December 2025  
+# AWS 3D E-Commerce Architecture Design  
+
 
 ---
 
-## 📌 Project Introduction
+## Project Introduction
 We are a startup team designing a **next-generation 3D e-commerce platform** where customers can **view, rotate, and interact with 3D models** of products such as furniture, gadgets, and clothing before purchasing.
 
 We selected **Amazon Web Services (AWS)** because it allows us to:
@@ -22,7 +18,7 @@ We selected **Amazon Web Services (AWS)** because it allows us to:
 
 ---
 
-## ✅ Project Requirements
+## Project Requirements
 The platform must:
 - Be **available 24/7**
 - Handle **huge traffic spikes** (e.g. Black Friday)
@@ -32,9 +28,9 @@ The platform must:
 
 ---
 
-## 🏗️ AWS 3D E-Commerce Architecture Overview
+## AWS 3D E-Commerce Architecture Overview
 
-### 🔧 Core AWS Services Used
+### Core AWS Services Used
 | AWS Service | Purpose |
 |-------------|---------|
 | **Amazon S3** | Stores 3D models and product images |
@@ -48,10 +44,11 @@ The platform must:
 | **Amazon Route 53** | Domain routing and automatic failover |
 | **Amazon CloudWatch** | Monitoring and performance tracking |
 | **AWS Trusted Advisor** | Cost, security, and performance recommendations |
+<img width="1366" height="768" alt="Screenshot_2025-12-08_08_13_53" src="https://github.com/user-attachments/assets/04e584b1-a545-4337-a4bc-3e393165b765" />
 
 ---
 
-## 🎯 Why Each Service Was Chosen
+## Why Each Service Was Chosen
 - **S3:** Secure, scalable, and low-cost storage for large 3D files  
 - **CloudFront:** Global fast delivery of content  
 - **EC2 (GPU):** Required for smooth 3D rendering  
@@ -64,7 +61,7 @@ The platform must:
 
 ---
 
-## 🔍 How the Design Meets System Requirements
+## How the Design Meets System Requirements
 
 | Requirement | Solution |
 |------------|----------|
@@ -76,7 +73,7 @@ The platform must:
 
 ---
 
-## ⚖️ Key Trade-Offs
+## Key Trade-Offs
 - GPU EC2 instances offer speed but increase costs  
 - Lambda functions may experience cold starts  
 - CloudFront adds a monthly cost but ensures global speed  
@@ -84,7 +81,7 @@ The platform must:
 
 ---
 
-## 👨‍🏫 What We Learned as a Team
+## What We Learned as a Team
 - CDN caching is essential for 3D performance  
 - Managed services reduce development workload  
 - Auto Scaling prevents system crashes during high demand  
@@ -93,7 +90,7 @@ The platform must:
 
 ---
 
-## 🏛️ AWS Well-Architected Framework Evaluation
+## AWS Well-Architected Framework Evaluation
 
 | Pillar | Score | Reason |
 |--------|--------|--------|
@@ -106,7 +103,7 @@ The platform must:
 
 ---
 
-## ✅ Final Conclusion
+## Final Conclusion
 Using **Amazon S3, CloudFront, EC2 (GPU), Lambda, RDS, DynamoDB, ELB, Route 53, and CloudWatch**, we designed a **modern 3D e-commerce platform** that is:
 
 ✔ Fast  
@@ -119,7 +116,7 @@ This architecture is suitable for **real-world enterprise-level 3D shopping plat
 
 ---
 
-## 📚 References
+##  References
 - AWS Well-Architected Framework – AWS Official Documentation  
 - AWS General Documentation  
 
