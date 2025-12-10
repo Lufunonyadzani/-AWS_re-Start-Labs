@@ -26,45 +26,21 @@ The Bash script must:
 
 ---
 
-##  Script Name
+##  Step 1: Create the Script File
 
-```
+
 create_files.sh
-```
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/f27ff630-5f00-4c43-854d-a635d5b14320" />
+
 
 ---
 
 ## Full Bash Script
 
-```bash
-#!/bin/bash
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/7764661f-5c7e-4eae-9528-a0e7a1879cb7" />
 
-# Set your name prefix
-NAME="lufuno"
-
-# Find the highest number used so far
-LAST_NUM=$(ls ${NAME}* 2>/dev/null | sed "s/$NAME//" | sort -n | tail -1)
-
-# If no files exist yet, start from 1
-if [ -z "$LAST_NUM" ]; then
-  START=1
-else
-  START=$((LAST_NUM + 1))
-fi
-
-# End at next 25 files
-END=$((START + 24))
-
-# Create the files
-for ((i=START; i<=END; i++))
-do
-  touch "${NAME}${i}"
-done
-
-echo "✅ Created files ${NAME}${START} to ${NAME}${END}"
 ```
 
----
 
 
 ### Making the script executable
@@ -75,55 +51,19 @@ chmod +x create_files.sh
 
 ---
 
-### 2️⃣ Run the script (First Execution)
+### Step 2: Make the Script Executable
+
+<img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/0f4f7dbc-0556-48e6-b768-aa807b4fd0be" />
+
+
+### Step 3: Run the script (First Execution)
 
 ```bash
 ./create_files.sh
 ```
+### Step 4:Validate with Long Listing
+<img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/ec9db643-4683-42db-aaca-8389d80b0a67" />
 
-✅ Output:
-
-```
-✅ Created files lufuno1 to lufuno25
-```
-
----
-
-### 3️⃣ Validate File Creation
-
-```bash
-ls -l
-```
-
-✅ Expected result:
-25 empty files starting from `lufuno1` to `lufuno25`, each showing **0 KB**
-
----
-
-### 4️⃣ Run Script Again (Automation Test)
-
-```bash
-./create_files.sh
-```
-
-✅ Output:
-
-```
-✅ Created files lufuno26 to lufuno50
-```
-
-✅ This confirms that:
-
-* The script correctly detects the last file number
-* Files are created automatically without hard-coded values
-
----
-
-## ✅ Validation Command Used
-
-```bash
-ls -l
-```
 
 This confirms:
 
@@ -137,7 +77,7 @@ This confirms:
 
 
 
-## 🧠 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 * Bash scripting
 * File automation
@@ -148,5 +88,4 @@ This confirms:
 
 ---
 
-Tell me what format you are submitting in.
 
