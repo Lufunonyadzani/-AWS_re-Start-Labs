@@ -4,7 +4,7 @@
 ---
 
 # ✅ AWS SimuLearn: File Systems in the Cloud 
-## ##  Course Title
+##   Course Title
 
 **AWS SimuLearn: Networking Concepts**
 ![Storage_page-0001](https://github.com/user-attachments/assets/4a8e3418-b1fb-4a25-b4b6-086227285da0)
