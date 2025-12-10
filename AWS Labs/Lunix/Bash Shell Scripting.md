@@ -40,15 +40,6 @@ create_files.sh
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/7764661f-5c7e-4eae-9528-a0e7a1879cb7" />
 
 ```
-
-
-
-### Making the script executable
-
-```bash
-chmod +x create_files.sh
-```
-
 ---
 
 ### Step 2: Make the Script Executable
