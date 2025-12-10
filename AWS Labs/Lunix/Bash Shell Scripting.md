@@ -40,13 +40,14 @@ create_files.sh
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/7764661f-5c7e-4eae-9528-a0e7a1879cb7" />
 
 ```
----
 
+```
 ### Step 2: Make the Script Executable
 
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/0f4f7dbc-0556-48e6-b768-aa807b4fd0be" />
 
-
+```
+```
 ### Step 3: Run the script (First Execution)
 
 ```bash
