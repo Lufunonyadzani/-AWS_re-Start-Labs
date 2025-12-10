@@ -1,7 +1,7 @@
 
 ---
 
-#  AWS SimuLearn: Core Security Concepts — Course README
+#  AWS SimuLearn: Core Security Concepts 
 
 ## 
 ##  Course Title
@@ -31,7 +31,7 @@ After completing the course, I should gain:
 
 ---
 
-## 🛠️ Typical Course Structure & Activities
+## Typical Course Structure & Activities
 
 * Interactive simulation where you design a security solution for a fictional customer scenario.
 * Guided lab in a live AWS Console where you build and implement the proposed solution. 
