@@ -33,7 +33,7 @@ mysql -u root --password='re:St@rt!9'
 
 ## 🗄️ **Task 2: Create Database & Tables**
 
-### ✔️ Show databases
+### ✔️ Show databases command is used to show all Databases
 
 ```sql
 SHOW DATABASES;
