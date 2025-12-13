@@ -24,10 +24,10 @@ By completing this lab, I was able to:
 
 
 ##  Task 1: Create a New DynamoDB Table
-  ###The image shows a DynamoDB “Create table” screen with the following fields filled in:
+The image shows a DynamoDB “Create table” screen with the following fields filled in:
 1. Table name: Music.
-2. Partition key: Artist (type String).
-3. Sort key (optional): Song (type String).
+2. Partition key: Artist.
+3. Sort key : Song.
 
 <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/cb69660d-39de-4bc3-8165-b861ac84c18d" />
 
