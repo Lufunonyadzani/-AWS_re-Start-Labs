@@ -51,6 +51,10 @@ The image shows an AWS DynamoDB “Create item” screen with four attributes:
 ---
 
 ## Task 4: Query and Scan the Table
+The image shows an AWS DynamoDB query interface.
+
+1. Value: Psy
+2. Sort key: Song
 <img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/bcf0aa65-d3c7-4c06-a258-856f025dad08" />
 
 
