@@ -39,7 +39,7 @@ mysql -u root --password='re:St@rt!9'
 SHOW DATABASES;
 ```
 
-### ✔️ Create a database
+### ✔️ Create command is used to create a database called world
 
 ```sql
 CREATE DATABASE world;
