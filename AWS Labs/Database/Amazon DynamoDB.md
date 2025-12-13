@@ -59,5 +59,11 @@ The image shows an AWS DynamoDB query interface.
 
 
 ## Task 5: Delete the Table
+The image shows an AWS DynamoDB confirmation dialog for deleting a table.
+
+1. Dialog title:
+   Delete table
+
+
 <img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/a54476f4-9846-4f43-b68f-8b31e22ac246" />
 
