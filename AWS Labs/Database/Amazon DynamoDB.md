@@ -32,6 +32,12 @@ The image shows a DynamoDB “Create table” screen with the following fields f
 <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/cb69660d-39de-4bc3-8165-b861ac84c18d" />
 
 ---
+The image shows an AWS DynamoDB “Create item” screen with four attributes:
+
+1. Artist (Partition key) – value “Pink Floyd”.
+2. Song (Sort key) – value “Money”.
+3. Album – value “The Dark Side of the Moon”.
+4. Year – value 1973.
 
 ## Task 2: Add Data to the Table
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/d58e8efa-b353-4a10-b73d-1ea486727b64" />
