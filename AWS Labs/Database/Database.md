@@ -69,7 +69,7 @@ CREATE TABLE world.country (
 
 ## 🖥️ **Task 4: Alter the Table**
 
-Commands used to alter the Table:
+Alter command is used to alter the Table:
 
 ```bash
 ALTER TABLE world.country RENAME COLUMN Conitinent TO Continent;
@@ -82,7 +82,7 @@ ALTER TABLE world.country RENAME COLUMN Conitinent TO Continent;
 
 ## 🖥️ **Task 5: Delete a database and tables**
 
-Commands used to delete a database and tables:
+Delete Command is used to delete a database and tables:
 
 ```bash
 DROP DATABASE world;
