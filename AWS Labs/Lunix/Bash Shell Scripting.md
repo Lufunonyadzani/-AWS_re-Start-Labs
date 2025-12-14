@@ -26,10 +26,7 @@ The Bash script must:
 
 ---
 
-##  Step 1: Create the Script File
-
-
-create_files.sh
+##  Step 1: Create the Script File:create_files.sh
 <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/f27ff630-5f00-4c43-854d-a635d5b14320" />
 
 
