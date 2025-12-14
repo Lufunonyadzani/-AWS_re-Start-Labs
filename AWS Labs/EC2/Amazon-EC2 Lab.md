@@ -25,6 +25,6 @@ The setup involves creating one instance using the Amazon Linux 2023 AMI 2023.9.
 7.Configuring storage
 8. <img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/4b0b6350-49e2-4f8b-8d9d-7ee8e4020026" />
 
-9. Adding User Data script:
+9. Adding User Data script: The user‑data script shown in the AWS EC2 launch wizard is a simple bash initialization script that automatically configures an instance to run a basic web server.
 10. <img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/d1073605-9d8a-4227-a014-62347ad74c6a" />
 
