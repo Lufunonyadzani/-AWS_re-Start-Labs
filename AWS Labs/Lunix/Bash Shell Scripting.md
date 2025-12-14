@@ -32,7 +32,7 @@ The Bash script must:
 
 ---
 
-## Full Bash Script: he Bash script shown in the image is designed to automate the creation of a series of numbered files with a custom name prefix.
+## Full Bash Script: The Bash script shown in the image is designed to automate the creation of a series of numbered files with a custom name prefix.
 
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/7764661f-5c7e-4eae-9528-a0e7a1879cb7" />
 
