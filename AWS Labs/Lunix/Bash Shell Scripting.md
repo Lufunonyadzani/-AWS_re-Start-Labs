@@ -26,13 +26,13 @@ The Bash script must:
 
 ---
 
-##  Step 1: Create the Script File:create_files.sh
+##  Step 1: Create the Script File: create_files.sh
 <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/f27ff630-5f00-4c43-854d-a635d5b14320" />
 
 
 ---
 
-## Full Bash Script
+## Full Bash Script: he Bash script shown in the image is designed to automate the creation of a series of numbered files with a custom name prefix.
 
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/7764661f-5c7e-4eae-9528-a0e7a1879cb7" />
 
