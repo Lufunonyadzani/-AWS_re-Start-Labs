@@ -19,10 +19,10 @@ Steps performed:
 6. <img width="1366" height="768" alt="Image 2" src="https://github.com/user-attachments/assets/ed8c41d4-d499-4139-b878-880787881889" />
 
 7. Configured **Networking**
-8. <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/ec672d3f-500a-4997-b1c5-f096f0386bd7" />
+8. The instance is being configured to use a specific VPC identified as vpc-04586a50d92607c0f, with the subnet set to “No preference,” meaning AWS will automatically select a default subnet in any availability zone. 
+9. <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/ec672d3f-500a-4997-b1c5-f096f0386bd7" />
 
 7.Configuring storage
-The instance is being configured to use a specific VPC identified as vpc-04586a50d92607c0f, with the subnet set to “No preference,” meaning AWS will automatically select a default subnet in any availability zone. 
 8. <img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/4b0b6350-49e2-4f8b-8d9d-7ee8e4020026" />
 
 9. Adding User Data script:
