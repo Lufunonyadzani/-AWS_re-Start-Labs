@@ -54,7 +54,9 @@ A security group was created to allow **web traffic**:
 
 ---
 
-## 🖥 Task 5: Launch the Web Server (EC2)
+## Task 5: Launch the Web Server (EC2)
+<img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/86c0a949-7c16-4af6-91c1-ad58778b72db" />
+
 
 ---
 
