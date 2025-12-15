@@ -46,9 +46,11 @@ Subnet-to-route-table associations:
 
 ---
 
-## 🔐 Task 4: Create Security Group
+## Task 4: Create Security Group
 
 A security group was created to allow **web traffic**:
+<img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/6207368e-143b-46a1-9037-5abfbe7a4590" />
+
 
 ---
 
