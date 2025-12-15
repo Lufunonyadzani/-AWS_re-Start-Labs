@@ -37,9 +37,11 @@ Two more subnets were created in a second Availability Zone:
 
 
 
-## 📍 Task 3: Associate Route Tables
+## Task 3: Associate Route Tables
 
 Subnet-to-route-table associations:
+<img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/21d45898-8343-43c8-be60-3808e651a29a" />
+
 
 
 ---
