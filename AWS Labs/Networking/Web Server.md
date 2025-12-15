@@ -25,6 +25,7 @@ By completing this lab, I was able to:
 ## Task 1: Create the VPC
 
 The VPC was created using the **VPC Wizard** with the following configuration:
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/ade46069-935d-4c07-af3b-2f8dfbfd28e5" />
 
 
 ---
