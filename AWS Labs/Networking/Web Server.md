@@ -30,9 +30,11 @@ The VPC was created using the **VPC Wizard** with the following configuration:
 
 ---
 
-## 📍 Task 2: Create Additional Subnets
+##  Task 2: Create Additional Subnets
 
 Two more subnets were created in a second Availability Zone:
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/4c6c76ee-43f9-453a-8a45-6141f0c53eb7" />
+
 
 
 ## 📍 Task 3: Associate Route Tables
