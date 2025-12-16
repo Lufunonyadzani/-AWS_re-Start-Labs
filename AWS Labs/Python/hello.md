@@ -15,8 +15,6 @@ The goal of this lab is to verify that Python environment is set up correctly by
 
 Python is a high-level, general-purpose programming language used for many types of applications, including web development, automation, and data analysis.
 
-This lab uses **Python 3.6.x**.
-
 ### Checking Installed Python Versions
 
 Run the following commands in the terminal:
@@ -27,13 +25,8 @@ python2 --version
 python3 --version
 ```
 
-Example output:
-
-```text
-Python 3.6.12
-Python 2.7.18
-Python 3.6.12
-```
+output:
+<img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/02e5ddf9-af47-435b-b787-083f0bc1838d" />
 
 ---
 
