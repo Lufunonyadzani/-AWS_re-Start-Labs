@@ -30,44 +30,22 @@ output:
 
 ---
 
-## Exercise 2: Writing Your First Python Program
+## Exercise 2: Writing my First Python Program
 
-1. Open the `hello-world.py` file in the IDE.
-2. Enter the following code:
-
-   ```python
-   print("Hello, World")
-   ```
-3. Save the file (**File > Save**).
-4. Choose the **Run (▶)** button near the top of the IDE.
-5. Confirm the output in the bottom pane displays:
-
-   ```text
-   Hello, World
-   ```
 
 ---
 
-## Expected Output
+##  Output
 
-```text
-Hello, World
-```
+<img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/803c8592-773e-450b-9f15-f510ed27cb0f" />
+
 
 ---
 
 ## Conclusion
 
-You have successfully:
+I have successfully:
 
 * Accessed the AWS Cloud9 IDE
 * Verified the Python installation
 * Created and executed your first Python program
-
-🎉 **Congratulations on writing your first Python program!** 🎉
-
----
-
-## Author
-
-AWS re/Start – Introduction to Programming Lab
