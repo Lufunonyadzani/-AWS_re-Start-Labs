@@ -3,67 +3,11 @@
 
 ## Lab Overview
 
-This lab introduces the basics of programming using the Python programming language. You will use the **AWS Cloud9 IDE** to create and run your first Python program.
+This lab introduces the basics of programming using the Python programming language. I use the **AWS Cloud9 IDE** to create and run your first Python program.
 
-The goal of this lab is to verify that your Python environment is set up correctly by writing and executing a simple **Hello, World** program.
-
-**Estimated completion time:** 45 minutes
+The goal of this lab is to verify that Python environment is set up correctly by writing and executing a simple **Hello, World** program.
 
 ---
-
-## Prerequisites
-
-* An active AWS lab environment
-* Access to the AWS Management Console
-* Basic familiarity with using a web browser and terminal
-
----
-
-## Accessing the AWS Cloud9 IDE
-
-1. Choose **Start Lab** at the top of the lab instructions.
-2. Wait until the message **Lab status: ready** appears, then close the Start Lab panel.
-3. Choose **AWS** to open the AWS Management Console.
-4. Navigate to **Services > Cloud9**.
-5. In the **Your environments** panel, locate **reStart-python-cloud9**.
-6. Choose **Open IDE**.
-
-**Notes:**
-
-* If prompted about pop-ups, allow them in your browser.
-* If you see messages about project settings or third-party content, choose **Discard** or **No**.
-
----
-
-## Creating the Python Exercise File
-
-1. In the AWS Cloud9 IDE menu bar, choose **File > New From Template > Python File**.
-2. Delete the sample code in the new file.
-3. Choose **File > Save As...**
-4. Name the file `hello-world.py`.
-5. Save it in the directory:
-
-   ```
-   /home/ec2-user/environment
-   ```
-
----
-
-## Accessing the Terminal
-
-1. In the IDE, choose the **+** icon.
-2. Select **New Terminal**.
-3. Confirm your working directory by running:
-
-   ```bash
-   pwd
-   ```
-
-   Expected output:
-
-   ```
-   /home/ec2-user/environment
-   ```
 
 ---
 
