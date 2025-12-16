@@ -1,128 +1,128 @@
 
-# Hello, World Program (Python)
+
+---
+
+# Working with Loops – Python Lab
 
 ## Lab Overview
 
-Welcome to **Introduction to Programming**. In this lab, you will use the **Python programming language** to write and run your first program using the **AWS Cloud9 IDE**.
+This lab introduces **loops in Python**, which are used to repeat a block of code. Two types of loops were covered:
 
-The purpose of this lab is to confirm that the Python development environment is set up correctly.
+* **while loop**
+* **for loop**
 
-**Estimated completion time:** 45 minutes
+The lab was completed using the **AWS Cloud9 IDE** as part of the AWS re/Start program.
 
----
 
-## Accessing the AWS Cloud9 IDE
-
-1. Choose **Start Lab** at the top of the lab instructions.
-2. Wait until the message **Lab status: ready** appears, then close the panel.
-3. Choose **AWS** to open the AWS Management Console.
-4. Navigate to **Services > Cloud9**.
-5. Locate **reStart-python-cloud9** under *Your environments*.
-6. Choose **Open IDE**.
-
-**Notes:**
-
-* Allow pop-ups if prompted by your browser.
-* If you see prompts about project settings or third‑party content, choose **Discard** or **No**.
 
 ---
 
-## Creating the Python Exercise File
+## Objectives
 
-1. In the Cloud9 menu, choose **File > New From Template > Python File**.
-2. Delete the sample code in the new file.
-3. Choose **File > Save As...**
-4. Name the file `hello-world.py`.
-5. Save it in:
+By completing this lab, I learned how to:
 
-   ```
-   /home/ec2-user/environment
-   ```
-
----
-
-## Accessing the Terminal Session
-
-1. Choose the **+** icon in the IDE.
-2. Select **New Terminal**.
-3. Verify your working directory:
-
-   ```bash
-   pwd
-   ```
-
-   Expected output:
-
-   ```
-   /home/ec2-user/environment
-   ```
+* Use a **while loop** to repeat code until a condition is met
+* Use a **for loop** to iterate through a sequence of numbers
+* Generate random numbers using the `random` module
+* Accept and process user input
+* Write basic pseudocode
+* Add comments to Python code for readability
 
 ---
 
-## Exercise 1: Introducing Python
+## Environment Used
 
-Python is a **high-level, general-purpose programming language** used for applications such as websites, automation, and desktop software.
+* **Platform:** AWS Cloud9
+* **Language:** Python 3
+* **Directory:** `/home/ec2-user/environment`
 
-This lab uses **Python 3.6.x**.
+---
 
-### Checking Python Versions
+## Exercise 1: While Loop – Guess the Number Game
 
-Run the following commands in the terminal:
+### Description
 
-```bash
-python --version
-python2 --version
-python3 --version
+This script creates a simple game where the computer randomly selects a number between 1 and 10, and the user keeps guessing until the correct number is entered.
+
+
+### File
+
+* `while-loop.py`
+
+### Program Logic (Pseudocode)
+
+1. Generate a random number between 1 and 10
+2. Set a variable to track if the guess is correct
+3. While the guess is not correct:
+
+   * Ask the user for a guess
+   * Compare the guess to the random number
+   * If correct, display a success message and stop the loop
+   * If incorrect, ask the user to try again
+
+---
+
+## Exercise 2: For Loop – Counting to 10
+
+### Description
+
+This script uses a `for` loop to count from 0 to 10 and print each number.
+
+### Key Concepts Used
+
+* `for` loop
+* `range()` function
+* Loop variables
+* Indentation in Python
+
+### File
+
+* `for-loop.py`
+
+### Explanation
+
+The `range(0, 11)` function generates numbers starting from 0 up to (but not including) 11.
+Each number is stored in the variable `x` and printed to the screen during each loop iteration.
+
+---
+
+## Sample Output
+
+### Guess the Number Game
+
+```
+Welcome to Guess the Number!
+The rules are simple. I will think of a number, and you will try to guess it.
+Guess a number between 1 and 10: 5
+You guessed 5. Sorry, that isn’t it. Try again.
+Guess a number between 1 and 10: 7
+You guessed 7. That is correct! You win!
 ```
 
-Example output:
+### Count to 10
 
-```text
-Python 3.6.12
-Python 2.7.18
-Python 3.6.12
 ```
-
----
-
-## Exercise 2: Writing Your First Python Program
-
-1. Open the `hello-world.py` file in the IDE.
-2. Enter the following code:
-
-   ```python
-   print("Hello, World")
-   ```
-3. Save the file (**File > Save**).
-4. Choose the **Run (▶)** button.
-5. Confirm the output displays:
-
-   ```text
-   Hello, World
-   ```
-
----
-
-## Expected Output
-
-```text
-Hello, World
+Count to 10!
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 ```
 
 ---
 
 ## Conclusion
 
-You have successfully:
-
-* Accessed AWS Cloud9
-* Verified Python installation
-* Written and executed your first Python program
-
-🎉 **Congratulations on completing your first Python lab!** 🎉
+This lab helped reinforce my understanding of **looping structures in Python** and how they are used in real programs. I now understand when to use a `while` loop versus a `for` loop and how Python handles iteration and conditions.
 
 ---
 
-## Program
 
-AWS re/Start – Introduction to Programming
+
