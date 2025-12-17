@@ -34,6 +34,8 @@ By the end of this lab, I successfully:
 ---
 
 ## Task 1: Configure Amazon SNS
+The image shows the AWS Management Console with an Amazon SNS named MyCwAlarm that has been created successfully.
+
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/21fdb75f-562f-40be-a774-7afaec4124d4" />
 
 
