@@ -44,7 +44,7 @@ The platform must:
 | **Amazon Route 53** | Domain routing and automatic failover |
 | **Amazon CloudWatch** | Monitoring and performance tracking |
 | **AWS Trusted Advisor** | Cost, security, and performance recommendations |
-<img width="1366" height="768" alt="Screenshot_2025-12-08_08_13_53" src="https://github.com/user-attachments/assets/04e584b1-a545-4337-a4bc-3e393165b765" />
+<img width="1536" height="1024" alt="AWS-based ecommerce architecture diagram" src="https://github.com/user-attachments/assets/2282418b-87f9-4910-bc66-9757dac319af" />
 
 ---
 
