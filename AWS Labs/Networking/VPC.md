@@ -60,7 +60,7 @@ Customer request:
 
 
 ### Step 2: Setting name and CIDR Block**
-he AWS VPC creation screen displays a configuration where the VPC is set to auto‑generate a name tag called “First VPC” with an IPv4 CIDR block of 192.168.0.0/16 and no IPv6 CIDR block selected.
+The AWS VPC creation screen displays a configuration where the VPC is set to auto‑generate a name tag called “First VPC” with an IPv4 CIDR block of 192.168.0.0/16 and no IPv6 CIDR block selected.
 
 <img width="1366" height="768" alt="image 2" src="https://github.com/user-attachments/assets/00f020bc-d09c-465a-9a7a-34fbf65ec105" />
 
