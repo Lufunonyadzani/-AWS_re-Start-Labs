@@ -74,6 +74,8 @@ I have chosen to use 2 Availability Zones (AZs), 0 public subnets and 1 private 
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/277cc03b-3f7c-4539-8c8d-53ff95e91a56" />
 
 ### Step 4: Created VPC
+The image shows an AWS VPC dashboard displaying details of a VPC named vpc-052d0c2e973952446C
+
 
 <img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/e80cfaea-8677-4477-9e72-b8fd13cd196f" />
 
