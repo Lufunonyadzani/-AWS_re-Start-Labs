@@ -49,15 +49,10 @@ The screenshot shows the AWS console page for creating an SNS subscription where
 ---
 
 ## Task 3: Stress Test the EC2 Instance
+The image shows an AWS SNS subscription page indicating that a subscription to the topic MyCwAlarm was created successfully with subscription ARN arn:aws:sns:us-west-2:351005276793:MyCwAlarm:6ba5cfd6-a1d0-416b-b8e1-b158b80b05d8.
 
 <img width="1366" height="768" alt="image 4" src="https://github.com/user-attachments/assets/a16d5bca-d231-4597-aefa-e408468c375a" />
 
----
-
-## Task 4: Create a CloudWatch Dashboard
-<img width="1366" height="768" alt="image 5" src="https://github.com/user-attachments/assets/7702b59f-3faf-44ea-a11f-b7e5b19aa87a" />
-
----
 
 
 ---
