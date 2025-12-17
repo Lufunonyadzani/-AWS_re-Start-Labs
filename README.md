@@ -44,6 +44,17 @@ Security in AWS is managed using IAM roles and policies. IAM roles give services
 ## Certifications and Badges  
 During the program, I earned several certifications and badges including Security Simulearn, Networking Simulearn, Storage Simulearn, and Database Simulearn.
 
+<p align="center">
+  <img src="https://your-image-link/aws-generative-ai-practitioner.png" width="160" />
+  <img src="https://your-image-link/aws-cloud-practitioner.png" width="160" />
+</p>
+
+*Generative AI Practitioner*  
+Foundational AI concepts and practical applications on AWS.
+
+*AWS Cloud Practitioner*  
+Comprehensive understanding of AWS cloud fundamentals.
+
 ---
 
 ## Projects  
