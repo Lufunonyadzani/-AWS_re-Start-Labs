@@ -41,7 +41,8 @@ The image shows the AWS Management Console with an Amazon SNS named MyCwAlarm th
 
 ---
 
-## Task 2: Create a CloudWatch Alarm
+## Task 2: Create a  subscription
+The screenshot shows the AWS console page for creating an SNS subscription where the Topic ARN is arn:aws:sns:us-west-2:351005276791:MyCWAlarm, the Protocol is set to Email, and the Endpoint is the email address nyadzran12@gmail.com; 
 
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/c969f51c-7027-4fe9-84b3-a3582d98e3c5" />
 
