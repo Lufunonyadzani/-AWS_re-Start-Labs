@@ -56,6 +56,9 @@ Customer request:
 ##  **Task 3: Create the VPC**
 
 ### Step 1: Opened VPC on AWS Console 
+The preview indicates the VPC is be named “First VPC” and will have 1 subnet.
+
+
 <img width="1366" height="768" alt="image 1" src="https://github.com/user-attachments/assets/883ce441-39c2-4921-8cd3-935a8e924734" />
 
 
@@ -67,6 +70,7 @@ The AWS VPC creation screen displays a configuration where the VPC is set to aut
 
 
 ### Step 3: Configure Settings
+I have chosen to use 2 Availability Zones (AZs), 0 public subnets and 1 private subnet, with the option to “Customize subnets CIDR blocks” enabled, assigning the private subnet a CIDR block of 192.168.0.0/26 in us‑west‑2a. 
 <img width="1366" height="768" alt="image 3" src="https://github.com/user-attachments/assets/277cc03b-3f7c-4539-8c8d-53ff95e91a56" />
 
 ### Step 4: Created VPC
